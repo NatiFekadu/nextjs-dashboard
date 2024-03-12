@@ -1,1 +1,1 @@
-## Next.js Dashboard - Starter
+## Next.js Dashboard
